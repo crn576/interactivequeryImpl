@@ -1,0 +1,11 @@
+
+# Provide the bootstrap servers list
+kafka-bootstrap-servers:
+storeName: mystore
+
+spring:
+  config:
+    use-legacy-processing: true
+  application:
+    name: kafka-interactive-query-impl-app
+
