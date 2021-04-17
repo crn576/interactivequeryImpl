@@ -8,5 +8,10 @@ We also configure the rocksdb, for wriete heavyu workloads , use the appropriate
 
 It is advised that config has to be tuned as per your infrastructure, such as network, Disk, memory.Higher the messgae payload the higher the risk of overflow errors with respect to the stream threads.
 
+Use the fields in the yml file according to your need.
+
+
+
+Graphical illustration 
 
 ![InstallPhotosBackupAndSync](https://user-images.githubusercontent.com/64941718/115099211-6baa3580-9f02-11eb-90f7-121794a76c2e.jpeg)
