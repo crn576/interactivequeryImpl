@@ -11,7 +11,12 @@ It is advised that config has to be tuned as per your infrastructure, such as ne
 Use the fields in the yml file according to your need.
 
 
+From Kafka Documentation
+![streams-interactive-queries-03](https://user-images.githubusercontent.com/64941718/115099327-39e59e80-9f03-11eb-9ab2-5bda7561bd48.png)
 
-Graphical illustration 
+
+
+
+Single Instace deployement
 
 ![InstallPhotosBackupAndSync](https://user-images.githubusercontent.com/64941718/115099211-6baa3580-9f02-11eb-90f7-121794a76c2e.jpeg)
